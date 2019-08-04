@@ -11,5 +11,5 @@
 #
 # By default this script does nothing.
 
-nohup /home/public/autobkp.sh &
+nohup /home/public/autotransf.sh &
 exit 0
