@@ -1,4 +1,4 @@
-<h1>#SHELL SCRIPT</h1>
+<h1>#SHELL SCRIPT<sup>(LINUX)</sup></h1>
 
   Para execução de um script na inicialização, basta editar o arquivo: /etc/rc.local
 
