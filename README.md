@@ -1,4 +1,4 @@
-SHELL SCRIPT para transferência automatizada de arquivos em determinados intervalos.
+#SHELL SCRIPT para transferência automatizada de arquivos em determinados intervalos.
 
   Para execução de um script na inicialização, basta editar o arquivo: /etc/rc.local
 
