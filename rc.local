@@ -11,5 +11,5 @@
 #
 # By default this script does nothing.
 
-nohup /home/public/autotransf.sh &
+nohup /src/autotransf.sh &
 exit 0
